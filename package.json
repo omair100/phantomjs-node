@@ -24,6 +24,7 @@
     "node": ">=0.12"
   },
   "dependencies": {
+    "es6-map": "^0.1.4",
     "linerstream": "^0.1.4",
     "phantomjs-prebuilt": "^2.1.4",
     "winston": "^2.2.0"

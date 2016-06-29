@@ -8,6 +8,7 @@ import Page from "./page";
 import Command from "./command";
 import OutObject from "./out_object";
 import EventEmitter from "events";
+import Map from 'es6-map/polyfill';
 
 const logger = new winston.Logger({
     transports: [
